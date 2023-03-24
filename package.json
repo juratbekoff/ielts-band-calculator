@@ -1,0 +1,24 @@
+{
+  "name": "ielts-score-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juratbekoff/ielts-band-calculator.git"
+  },
+  "keywords": [
+    "ielts-score-calculator",
+    "juratdev",
+    "ielts"
+  ],
+  "author": "Juratbek Xudayberganov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juratbekoff/ielts-band-calculator/issues"
+  },
+  "homepage": "https://github.com/juratbekoff/ielts-band-calculator#readme"
+}
